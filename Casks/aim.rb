@@ -1,6 +1,6 @@
 cask "aim" do
-  version "0.1.2"
-  sha256 "af25ea293d83f834d9d40dae6f625c3498246f39fef460c0d7f80ce21425b65d"
+  version "0.1.6"
+  sha256 "4c667a8fbe20d955c4e06a6a9a51a21b3f90a0d26e40c74b9a9a5b6ea830222f"
 
   url "https://github.com/lmarini556/aim/releases/download/v#{version}/AIM.app.tar.gz",
       verified: "github.com/lmarini556/aim/"
